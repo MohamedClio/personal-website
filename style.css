@@ -1,0 +1,13 @@
+img[alt="mohamed clio logo"] {
+  width: 35px;
+  border-radius: 10px;
+  margin-right: 5px;
+}
+img[alt="profile-picture"] {
+  border-radius: 10px;
+}
+.lead span {
+  font-weight: 600;
+  font-size: 25px;
+  color: mediumaquamarine;
+}
